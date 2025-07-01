@@ -1,0 +1,6 @@
+@fudge.api_HostAddress = http://localhost:5290
+
+GET {{fudge.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
